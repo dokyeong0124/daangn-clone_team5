@@ -113,6 +113,13 @@
   border-radius: 8px; /* 모서리 깎기 */
   text-decoration: none; /* 효과 없애기 */
   color: white;
+
+  transition: background-color 0.3s ease; /* 부드러운 배경색 전환 효과 */
+  cursor: pointer;
+}
+
+.btn:hover {
+  background-color: #d46b14; /* 호버 시 배경색 변경 */
 }
 
 .sub_btn {
@@ -126,6 +133,13 @@
   text-decoration: none; /* 효과 없애기 */
   color: black;
   font-weight: bold;
+
+  transition: background-color 0.3s ease; /* 부드러운 배경색 전환 효과 */
+  cursor: pointer;
+}
+
+.sub_btn:hover {
+  background-color: #cfcfcf; /* 호버 시 배경색 변경 */
 }
 
 .btn img {
