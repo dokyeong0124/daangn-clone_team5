@@ -1,0 +1,93 @@
+.header {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  gap: 150px;
+  align-items: center;
+  padding: 0 20px;
+  margin-top: 0;
+  transform: translate(-20px, -10px);
+}
+
+.header-left-part {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.header-right-part {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 12px;
+}
+
+.logo {
+  margin-right: 15px;
+  margin-left: 15px;
+  height: 40px;
+  cursor: pointer;
+}
+
+.select-list {
+  display: flex;
+  flex-direction: row;
+}
+
+.select-element {
+  margin-right: 15px;
+  margin-left: 15px;
+  font-size: 18px;
+  font-weight: bold;
+  opacity: 70%;
+  cursor: pointer;
+}
+
+.search {
+  background-color: #f2f3f6;
+  border-radius: 4px;
+  outline: none;
+  border: none;
+  height: 40px;
+  width: 250px;
+  padding: 0 16px;
+  font-size: 16px;
+}
+
+.chatting-button {
+  border-radius: 4px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-size: 16px;
+  font-weight: bold;
+  background-color: white;
+  height: 40px;
+  width: 90px;
+  color: #212529;
+  border: 1px solid #d1d1d1;
+}
+
+.select-element:hover {
+  opacity: 0.5; /* 마우스를 올리면 선명해짐 */
+}
+
+.chatting-button:hover {
+  border-radius: 4px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-size: 16px;
+  font-weight: bold;
+  background-color: #f2f3f6;
+  height: 40px;
+  width: 90px;
+  color: #212529;
+  border: 1px solid #d1d1d1;
+}
+
+.header a {
+  text-decoration: none;
+  color: inherit;
+  display: inline-block;
+}
