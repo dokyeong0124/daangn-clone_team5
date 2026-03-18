@@ -19,3 +19,4 @@
   ![body2](body2.png)
 
 - footer
+  ![footer](footer.png)
