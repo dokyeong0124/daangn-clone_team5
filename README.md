@@ -12,4 +12,10 @@
 
 ### <cloning page 캡쳐 화면>
 
-![캡쳐된 화면]()
+- header
+
+- body
+  ![body1](body1.png)
+  ![body2](body2.png)
+
+- footer
