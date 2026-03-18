@@ -13,7 +13,7 @@
 ### <cloning page 캡쳐 화면>
 
 - header
-
+  ![header](header.png)
 - body
   ![body1](body1.png)
   ![body2](body2.png)
