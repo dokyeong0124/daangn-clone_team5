@@ -13,10 +13,10 @@
 ### <cloning page 캡쳐 화면>
 
 - header
-  ![header](header.png)
+  ![header](./section/header.png)
 - body
-  ![body1](body1.png)
-  ![body2](body2.png)
+  ![body1](./section/body1.png)
+  ![body2](./section/body2.png)
 
 - footer
-  ![footer](footer.png)
+  ![footer](./section/footer.png)
